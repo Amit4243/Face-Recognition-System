@@ -63,4 +63,4 @@ face-detection/
 - Improve UI and add more functionalities
 
 ## Author
-Developed by **Lokesh Kumar** - Face Recognition System ©2024
+Developed by **Amit Singh Jadoun** - Face Recognition System ©2024
